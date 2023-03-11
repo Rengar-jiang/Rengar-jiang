@@ -1,8 +1,8 @@
-### Hi there 👋
-- My name is Jiang Tianliang. I got my Phd degree at NWRC
+### Hi 👋! Thanks for visiting my GitHub profile. 😁
+- 🦔 My name is Jiang Tianliang. I got my Phd degree at NWRC
 - 🔭 I’m currently working on Institude of water resources and hydropower research.
-- My study interests contain ecological drought, drought propagation, and drought evaluation
-- Welcom to contact me via email: jiangtl@iwhr.com
+- ✨ My study interests contain ecological drought, drought propagation, and drought evaluation
+- 📧 Welcom to contact me via email: jiangtl@iwhr.com
 ## Employment
 - [China institute of water reources and hydropower research](http://www.iwhr.com/zgskywwnew/index.htm)
 
