@@ -1,8 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Institude of water hydropower resources research
-
+- My name is Jiang Tianliang. I got my Phd degree at NWRC
+- 🔭 I’m currently working on Institude of water resources and hydropower research.
+- My study interests contain ecological drought, drought propagation, and drought evaluation
+- Welcom to contact me via email: jiangtl@iwhr.com
 ## Employment
-- [China institutes of water reources and hydropower research](http://www.iwhr.com/zgskywwnew/index.htm)
+- [China institute of water reources and hydropower research](http://www.iwhr.com/zgskywwnew/index.htm)
 
 <!--
 **Rengar-jiang/Rengar-jiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
